@@ -1,0 +1,32 @@
+<!--  -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Specificity</title>
+    <link rel="stylesheet" href="../CSS/06.css">
+</head>
+
+<body>
+    <h1>Css Specificity</h1>
+    <div>
+        <p>
+            CSS Specificity is used to select the style in case of ambiguity
+        </p>
+    </div>
+    <ul>
+        <li id="List">Every element has a score of 1 </li>
+        <li id="List">Every class has a score of 10 </li>
+        <li id="List">Every id has a score of 100 </li>
+    </ul>
+    <br>
+    <p>
+        Whichever style has higher score is selected. <br>
+        Incase the score clashes the style declared later is accepted.
+    </p>
+</body>
+
+</html>
