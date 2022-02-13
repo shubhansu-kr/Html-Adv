@@ -1,0 +1,31 @@
+body {
+    --smoke: whitesmoke ;
+    background-color: var(--smoke);
+}
+
+li {
+    color: rebeccapurple; 
+}
+
+.banner {
+    display: none;
+    color: black;
+}
+
+li:hover {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+}
+
+ul li:nth-child(n) {
+    background-color: aquamarine;
+    color: purple;
+}
+
+li:hover > .banner {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    display: inline;
+}
