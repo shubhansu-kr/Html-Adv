@@ -1,0 +1,43 @@
+html{
+    --ol: green;
+}
+
+body {
+    --bg: yellow;
+    /* background-color: var(--bg); */
+    /* background-color: var(--col); --> col Not accessible */
+    color: var(--ol);
+}
+
+div {
+    /* Using the variable from parent style.  */
+    background-color: var(--bg, Red);
+    
+    --col: green; 
+}
+
+p{
+    background-color: var(--bg, Red);
+    /* color: var(--col); -->Cannot access the var */
+}
+
+:root {
+    --blue: #6495ed;
+    --white: #faf0e6;
+}
+
+body {
+	background: var(--blue);
+}
+
+h2 {
+	color: var(--blue);
+}
+
+.container {
+	background: var(--white);
+}
+
+button {
+	color: var(--blue);
+}
