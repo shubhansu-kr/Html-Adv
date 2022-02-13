@@ -1,0 +1,25 @@
+span {
+    font-size: large;
+}
+
+span::before{
+    content: 'My ';
+    font-size: large;
+    color: red;
+}
+
+span:hover::before {
+    content: 'Your ';
+    font-size: large;
+    color: red;
+}
+
+span::after {
+    content: 'ourite Language';
+    font-size: large;
+    color: red;
+}
+
+li {
+    font-size: medium;
+}
