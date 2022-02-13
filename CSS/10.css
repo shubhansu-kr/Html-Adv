@@ -1,0 +1,7 @@
+:root{
+    --size: 30px;
+}
+
+h1 {
+    font-size: calc(var(--size) + 2vw + 30px); 
+}
