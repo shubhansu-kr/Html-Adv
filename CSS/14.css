@@ -1,0 +1,16 @@
+body {
+    background-color: aliceblue;
+}
+
+li {
+    font-size: 30px;
+}
+
+li:not([data-tag="Big"]) {
+    color: blue;
+}
+
+li[data-tag="Italian"]::before {
+    color: red;
+    content: attr(data-tag);
+}
