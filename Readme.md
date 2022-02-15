@@ -21,8 +21,8 @@ Learned the following CSS concepts :
 
 Check out my codedamn profile for code certification [@shubhansu](https://codedamn.com/user/shubhansu).   
 
-> Course Certificate :    
+Course Certificate :    
 
-![CourseCertificate]{./Resource/img/CourseCertificate.jpeg}
+![CourseCertificate]{E:\Tutorials\01_Semester\Html (Adv)\Resource\img\CourseCertificate.jpeg}
 
 Course duration : 11th Feb 2022  - 15th Feb 2022.  
