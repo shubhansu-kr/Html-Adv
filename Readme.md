@@ -23,4 +23,6 @@ Check out my codedamn profile for code certification [@shubhansu](https://codeda
 
 Course [Certificate](./Resource/img/CourseCertificate.jpeg)   
 
+![image](./Resource/img/CourseCertificate.jpeg) 
+
 Course duration : 11th Feb 2022  - 15th Feb 2022.  
