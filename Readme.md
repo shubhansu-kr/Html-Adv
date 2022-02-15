@@ -19,6 +19,10 @@ Learned the following CSS concepts :
 - Media Query 
 - CSS Animations  
 
-Check out my codedamn profile for code certification [@shubhansu](https://codedamn.com/user/shubhansu).
+Check out my codedamn profile for code certification [@shubhansu](https://codedamn.com/user/shubhansu).   
+
+> Course Certificate :    
+
+![CourseCertificate]{./Resource/img/CourseCertificate.jpeg}
 
 Course duration : 11th Feb 2022  - 15th Feb 2022.  
