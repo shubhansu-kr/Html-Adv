@@ -21,7 +21,7 @@ Learned the following CSS concepts :
 
 Check out my codedamn profile for code certification [@shubhansu](https://codedamn.com/user/shubhansu).   
 
-Course [Certificate](./Resource/img/CourseCertificate.jpeg)   
+Course [Certificate](./Resource/img/CourseCertificate.jpeg) :    
 
 ![image](./Resource/img/CourseCertificate.jpeg) 
 
